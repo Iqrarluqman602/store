@@ -1,5 +1,5 @@
 {
-  "name": "borcella_store",
+  "name": "bawakooof_store",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -41,6 +41,6 @@
   "directories": {
     "lib": "lib"
   },
-  "author": "",
+  "author": "iqrar",
   "license": "ISC"
 }
